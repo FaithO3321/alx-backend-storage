@@ -1,0 +1,1 @@
+REDIS basics for data
